@@ -5,7 +5,7 @@ Printable Anime Coloring Pages With AI: Two Routes, Eight Pages, and the Fixes
 
 This is a working guide to making anime coloring pages with AI. It is based on a set of eight free pages of original characters that I made in PixAI: four from a text prompt (Route A) and four from my own colored OC illustrations (Route B). You'll find the exact prompts, the settings, every problem that came up, and the fix for each one. The pages are free to print for personal use, and you can follow the same steps to make your own.
 
-<img width="3394" height="1088" alt="intro_row_four_pages" src="https://github.com/user-attachments/assets/95a00918-d8ce-4bb5-9af4-50b70a6b94c4" />
+<img alt="intro_row_four_pages" src="https://github.com/user-attachments/assets/95a00918-d8ce-4bb5-9af4-50b70a6b94c4" />
 
 Four of the eight free pages in this set: two made from a prompt and two from my own colored OC illustrations
 
@@ -41,7 +41,7 @@ Start from the [PixAI image generator](https://pixai.art/generator/image?utm_sou
 
 -   **Cost at the time of writing:** 7,800 credits per run
 
-<img width="1460" height="816" alt="route_a_setup_screenshot" src="https://github.com/user-attachments/assets/a562d453-2efa-415e-8f16-93f46d4971ca" />
+<img alt="route_a_setup_screenshot" src="https://github.com/user-attachments/assets/a562d453-2efa-415e-8f16-93f46d4971ca" />
 
 The image generator with Tsubaki.3, a 3:4 ratio and the Route A prompt filled in
 
@@ -93,7 +93,7 @@ When I dropped them from both prompts, blue-gray lines and scribbled hatching re
 
 Before you use a detailed image, check it for two things: unwanted color or gray marks, and double or overlapping outlines. A page can be black and white and still need corrections before it's ready to print.
 
-<img width="1682" height="1088" alt="route_a_simple_vs_detailed" src="https://github.com/user-attachments/assets/a5a00f19-7e28-4f4b-bd98-770c7a1ed26e" />
+<img alt="route_a_simple_vs_detailed" src="https://github.com/user-attachments/assets/a5a00f19-7e28-4f4b-bd98-770c7a1ed26e" />
 
 A simple Route A page on the left and a detailed one on the right
 
@@ -114,7 +114,7 @@ Settings in Edit Pro:
 
 -   **Cost at the time of writing:** 8,000 credits per page
 
-<img width="1460" height="870" alt="route_b_setup_screenshot" src="https://github.com/user-attachments/assets/be7d6699-39df-4aec-971b-1e3c87be7813" />
+<img alt="route_b_setup_screenshot" src="https://github.com/user-attachments/assets/be7d6699-39df-4aec-971b-1e3c87be7813" />
 
 Edit Pro with the OC illustration and the Route B prompt filled in
 
@@ -126,7 +126,7 @@ Convert this image into a black and white line art coloring page. Keep the chara
 
 Asking Edit Pro to keep the face, hairstyle, outfit and pose worked on all four pages. The hairpin, ponytail and four-button cardigan on the first girl came through, and so did the varsity jacket, glasses and puppy, the witch's hat, braid and cape, and the market stall's lanterns and bunting.
 
-<img width="3346" height="1088" alt="route_b_source_vs_page" src="https://github.com/user-attachments/assets/8fbab865-f505-4bc6-92ec-99576bdbfc7f" />
+<img alt="route_b_source_vs_page" src="https://github.com/user-attachments/assets/8fbab865-f505-4bc6-92ec-99576bdbfc7f" />
 
 Two original illustrations on the left of each pair and their coloring pages on the right, one simple and one detailed
 
@@ -181,7 +181,7 @@ On the chibi page, all four images in the first batch had pastel stars and cloud
 
 Route A generates a new image instead of editing the old one, so this fix gives you a replacement drawing, not a repaired copy. Check the new result again before using it.
 
-<img width="1920" height="1402" alt="route_a_failed_fixed" src="https://github.com/user-attachments/assets/242e098c-792c-457d-a2b4-17d44c3f90bf" />
+<img alt="route_a_failed_fixed" src="https://github.com/user-attachments/assets/242e098c-792c-457d-a2b4-17d44c3f90bf" />
 
 Route A chibi page before the fix, with pale blue stars and clouds, and after the fix, with black outlines only
 
@@ -191,7 +191,7 @@ On the witch page, I added one sentence to the same prompt: "Simplify tiny detai
 
 The stars on the hat, brooch and satchel became larger and simpler, and the boot laces were simplified. Some small stars on the cape remained, so the page improved without losing every small detail. The hat, braid, bow, cape, broom and satchel stayed recognizable.
 
-<img width="1662" height="1178" alt="route_b_failed_fixed" src="https://github.com/user-attachments/assets/0fb97457-88a7-4bbe-89b4-f1babcbcab56" />
+<img alt="route_b_failed_fixed" src="https://github.com/user-attachments/assets/0fb97457-88a7-4bbe-89b4-f1babcbcab56" />
 
 Route B witch page before the fix, with tiny areas marked in red, and after the fix, with simpler details
 
@@ -205,7 +205,7 @@ The difference is the kind of work. Route A means adjusting the prompt and regen
 
 The figures in the table include the extra fix runs for both routes. They leave out two extra Route A runs I made only to compare gray settings, and the time spent making the colored illustrations for Route B.
 
-<img width="1681" height="961" alt="route_comparison_table" src="https://github.com/user-attachments/assets/b6666412-6b72-43e6-a7ff-4522e9162f0c" />
+<img alt="route_comparison_table" src="https://github.com/user-attachments/assets/b6666412-6b72-43e6-a7ff-4522e9162f0c" />
 
 Route A and Route B compared across the four finished pages each
 
@@ -230,7 +230,7 @@ Route B pages came back with tight margins, and most printers leave a small unpr
 
 In the print dialog, choose A4 or US Letter and select "Fit to page" (the wording varies by printer). The whole page scales to the sheet, so the character isn't cropped.
 
-<img width="1141" height="1600" alt="printed_page_photo" src="https://github.com/user-attachments/assets/3a6ba61c-9856-4e2a-8514-c26c1f864ca2" />
+<img alt="printed_page_photo" src="https://github.com/user-attachments/assets/3a6ba61c-9856-4e2a-8514-c26c1f864ca2" />
 
 The Route B witch page printed on A4 paper
 
@@ -241,37 +241,37 @@ Here are all 8 pages from this set, grouped from simple to detailed. Each captio
 
 ### Simple pages
 
-<img width="1232" height="1632" alt="page_01_chibi_cupcake" src="https://github.com/user-attachments/assets/983df7e5-1b60-4af4-96de-9bd896e07aee" />
+<img alt="page_01_chibi_cupcake" src="https://github.com/user-attachments/assets/983df7e5-1b60-4af4-96de-9bd896e07aee" />
 
 A chibi girl with a cupcake: simple, Route A (prompt)
 
-<img width="1232" height="1632" alt="page_02_fox_ear_girl" src="https://github.com/user-attachments/assets/2c5d4390-4480-4cbb-b8f4-6ab1bfb74e15" />
+<img alt="page_02_fox_ear_girl" src="https://github.com/user-attachments/assets/2c5d4390-4480-4cbb-b8f4-6ab1bfb74e15" />
 
 A fox-ear girl waving: simple, Route A (prompt)
 
-<img width="816" height="1088" alt="page_03_teal_hair_oc" src="https://github.com/user-attachments/assets/094c3191-c224-4d18-a218-1d7b1bb6dc26" />
+<img alt="page_03_teal_hair_oc" src="https://github.com/user-attachments/assets/094c3191-c224-4d18-a218-1d7b1bb6dc26" />
 
 A girl in a cardigan with a ponytail: simple, Route B (my own OC)
 
-<img width="816" height="1088" alt="page_04_glasses_oc_puppy" src="https://github.com/user-attachments/assets/ba0acd86-3788-4a2d-81df-a0d7ac63d084" />
+<img alt="page_04_glasses_oc_puppy" src="https://github.com/user-attachments/assets/ba0acd86-3788-4a2d-81df-a0d7ac63d084" />
 
 A character in a varsity jacket with a puppy: simple, Route B (my own OC)
 
 ### Detailed pages
 
-<img width="1232" height="1632" alt="page_06_magical_girl" src="https://github.com/user-attachments/assets/13de21ca-6b26-4169-99eb-ad97bf87124d" />
+<img alt="page_06_magical_girl" src="https://github.com/user-attachments/assets/13de21ca-6b26-4169-99eb-ad97bf87124d" />
 
 A magical girl with a star wand: detailed, Route A (prompt)
 
-<img width="816" height="1088" alt="page_07_witch_with_broom" src="https://github.com/user-attachments/assets/9bee0e28-e210-4605-a93e-867d7a23bc32" />
+<img alt="page_07_witch_with_broom" src="https://github.com/user-attachments/assets/9bee0e28-e210-4605-a93e-867d7a23bc32" />
 
 A witch with a broom: detailed, Route B (my own OC)
 
-<img width="1232" height="1632" alt="page_05_winter_village" src="https://github.com/user-attachments/assets/4cd03a98-eed1-45ad-9dfa-455c9a9736c6" />
+<img alt="page_05_winter_village" src="https://github.com/user-attachments/assets/4cd03a98-eed1-45ad-9dfa-455c9a9736c6" />
 
 A girl with a gift in a snowy village: detailed, Route A (prompt)
 
-<img width="816" height="1088" alt="page_08_autumn_market_stall" src="https://github.com/user-attachments/assets/723fb66b-d1be-4196-b427-a17701d59e85" />
+<img alt="page_08_autumn_market_stall" src="https://github.com/user-attachments/assets/723fb66b-d1be-4196-b427-a17701d59e85" />
 
 A girl at an autumn market stall: detailed, Route B (my own OC)
 
@@ -280,7 +280,7 @@ One Page, Colored In
 
 To confirm the lines work for real coloring, I colored the witch page digitally with flat fills: one solid color per area, with no shading. Most areas filled cleanly because the outlines are closed, which is why the checklist at the start asks for closed shapes.
 
-<img width="816" height="1088" alt="page_07_colored_in" src="https://github.com/user-attachments/assets/af10e802-dda0-41c2-8b26-e15acf955754" />
+<img alt="page_07_colored_in" src="https://github.com/user-attachments/assets/af10e802-dda0-41c2-8b26-e15acf955754" />
 
 The witch page colored in digitally with flat fills
 
